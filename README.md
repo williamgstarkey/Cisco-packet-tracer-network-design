@@ -6,6 +6,10 @@ This project involved designing and configuring a multi-segment enterprise netwo
 
 The network was progressively developed through multiple assignments, culminating in a larger topology incorporating internal network segments, routing infrastructure, server services, network management, and external connectivity.
 
+## Network Topology
+
+![Network Topology](screenshots/network-topology.png)
+
 ## Network Architecture
 
 The final topology includes:
